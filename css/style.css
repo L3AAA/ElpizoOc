@@ -1,4 +1,10 @@
 
+.Content
+{
+  height:220px;
+   overflow:auto;
+}
+
 .lds-grid {
   display: inline-block;
   position: relative;
